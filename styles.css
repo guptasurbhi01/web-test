@@ -216,6 +216,7 @@ margin-bottom: 10px;
     width:530px;
     height:45px;
     margin-bottom:18px;
+      outline:none;
     border: 1px solid #bfbfbf;
     padding-left: 10px;
   }
@@ -229,6 +230,7 @@ margin-bottom: 10px;
     border: 1px solid #bfbfbf;
     height:150px;
     padding-left: 10px;
+      outline:none;
   }
   .contact-us form button {
     margin-top: 10px;
